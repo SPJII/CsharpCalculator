@@ -1,0 +1,14 @@
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\bin\Debug\net8.0\BasicCalculator.exe
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\bin\Debug\net8.0\BasicCalculator.deps.json
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\bin\Debug\net8.0\BasicCalculator.runtimeconfig.json
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\bin\Debug\net8.0\BasicCalculator.dll
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\bin\Debug\net8.0\BasicCalculator.pdb
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.dll
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\refint\BasicCalculator.dll
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.pdb
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\gyu86\OneDrive\Documents\Projects\BasicCalculator\obj\Debug\net8.0\ref\BasicCalculator.dll
